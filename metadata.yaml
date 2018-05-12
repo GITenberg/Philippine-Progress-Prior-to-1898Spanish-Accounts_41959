@@ -1,0 +1,35 @@
+_repo: Philippine-Progress-Prior-to-1898Spanish-Accounts_41959
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41959-h/images/new-cover.jpg
+creator:
+  authors:
+  - agent_name: Craig, Austin
+    birthdate: 1872
+    gutenberg_agent_id: '2229'
+    url: http://www.gutenberg.org/2009/agents/2229
+    wikipedia: http://en.wikipedia.org/wiki/Austin_Craig
+  - agent_name: Benitez, Conrado O.
+    birthdate: 1889
+    gutenberg_agent_id: '41450'
+    url: http://www.gutenberg.org/2009/agents/41450
+description: ''
+gutenberg_issued: '2013-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41959'
+  lccn: '17031047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines'
+- !lcc 'DS'
+tableOfContents: Pt. I. The old Philippines' industrial development, by C. Benitez
+  -- Pt. II. The Filipinos' part in the Philippines' past, by A. Craig.
+title: "Philippine Progress Prior to 1898\r\nA Source Book of Philippine History to\
+  \ Supply a Fairer View of Filipino Participation and Supplement the Defective Spanish\
+  \ Accounts"
+url: http://www.gutenberg.org/ebooks/41959
